@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+yt-dlp
+youtubesearchpython
+google-api-python-client
+SpeechRecognition
+pydub
